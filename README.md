@@ -1,5 +1,6 @@
 # Haskell some basic examples
 There are some usefull functtion, 18 questions and its answers about haskell, the functional programming language.
+
 1.  Return summation of three parameters. f1 2 5 7 = 14
 2.	Return summation of three parameters. f1 2 5 7 = 14
 3.	Given the name of the person, return "Hello name" where name is the name of the person. H should be capital and there should be a space there. f2 "Arda" = "Hello Arda"

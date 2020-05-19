@@ -2,31 +2,7 @@
 There are some usefull functtion, 18 questions and its answers about haskell, the functional programming language.
 
 
-1.  Return summation of three parameters. f1 2 5 7 = 14
-2.	Return summation of three parameters. f1 2 5 7 = 14
-3.	Given the name of the person, return "Hello name" where name is the name of the person. H should be capital and there should be a       space there. f2 "Ali" = "Hello Ali"
-3.	Calculate 2n using multiplication. f3 0 = 1, f3 5 = 32
-4.	Calculate fibonacci series n. f4 0 = 0 and f4 1 = 1, f4 12 = 144
-5.	Calculate combination n r. C(n,r)=n!r!(n−r)! f5 10 3 = 120
-6.	Calculate permutation n r. P(n,r)=n!r! f6 10 3 = 604800
-7.	Cylinder with radius and height. πr2h f7 5 20 = 1571
-8.	A sphere with radius. 43πr3 f8 10 = 4189
-9.	A pyramid with base and height 13b2h f9 10 6 = 200
-10.	A cone with radius and height π13 r2h f10 5 9 = 236
-11.	Find the length of the list. f11 [2, 3, 6, 7, 14] = 5
-12.	Find the number of elements that are smaller than the element before it. f12 [2, 5, 3, 8, 4, 3] = 3
-13.	Count the number of occurrences of the given value (number or text) in the list. f13 "Hello Ali" 'l' = 3
-14.	Calculate subtract the sum of odd numbers from sum of even numbers in the list. f14  [2, 5, 3, 8, 4, 3] = 3
-15.	Find the index of the maximum number.  f15  [2, 5, 3, 8, 4, 3] = 3
-	Choose 2 of the following
-16.	Create the list of all prime numbers. f17 = [2, 3, 5, 7, 11..]
-17.	Given two numbers calculate their greatest common divisor using Euclidean algorithm. f17 24 18 = 6
-18.	Given a number calculate the locations of the ones when that number is represented in binary. f20 53 = [0, 2, 4, 5] (21 = 110101). Hint: use function quot to do integer division.
-
-
-
-
-l = [2, 3, 6, 7, 14]
+l = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
 
 f1 a b c = a + b + c
 
@@ -156,3 +132,5 @@ main=do
  print(f17 24 18)
 
  print(f18 53)
+
+

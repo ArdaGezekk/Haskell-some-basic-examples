@@ -2,7 +2,7 @@
 There are some usefull functtion, 18 questions and its answers about haskell, the functional programming language.
 1.  Return summation of three parameters. f1 2 5 7 = 14
 2.	Return summation of three parameters. f1 2 5 7 = 14
-3.	Given the name of the person, return "Hello name" where name is the name of the person. H should be capital and there should be a space there. f2 "Ali" = "Hello Ali"
+3.	Given the name of the person, return "Hello name" where name is the name of the person. H should be capital and there should be a space there. f2 "Arda" = "Hello Arda"
 3.	Calculate 2n using multiplication. f3 0 = 1, f3 5 = 32
 4.	Calculate fibonacci series n. f4 0 = 0 and f4 1 = 1, f4 12 = 144
 5.	Calculate combination n r. C(n,r)=n!r!(n−r)! f5 10 3 = 120
@@ -141,7 +141,7 @@ Chose 1 of the following
          print (f12 l)
 
          print(f13 [1,3,1,3,3,3,2,3,4,3] 3)
-         print(f13 "Hello Ali" 'l')
+         print(f13 "Hello Arda" 'l')
 
          print (f14)
 

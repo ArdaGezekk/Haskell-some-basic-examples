@@ -1,4 +1,4 @@
-# Haskell-some-basic-examples
+# Haskell some basic examples
 There are some usefull functtion, 18 questions and its answers about haskell, the functional programming language.
 1.  Return summation of three parameters. f1 2 5 7 = 14
 2.	Return summation of three parameters. f1 2 5 7 = 14
